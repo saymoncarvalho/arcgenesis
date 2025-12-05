@@ -1,0 +1,5 @@
+{
+  "name": "ArcDev Genesis",
+  "description": "An intelligent assistant designed to guide beginners in creating DApps on Circle's Arc network. Includes a wallet simulator, AI-assisted code generation, and interactive tutorials.",
+  "requestFramePermissions": []
+}
